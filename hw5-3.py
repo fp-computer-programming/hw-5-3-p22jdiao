@@ -16,7 +16,7 @@ calendar.prmonth(2003,1)
 
 # Question 4
 
-calendar.LocaleTextCalendar(6, "SPAINISH").pryear(2020)
+#calendar.LocaleTextCalendar(6, "SPAINISH").pryear(2020)
 
 # Question 5
 
